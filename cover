@@ -1,3 +1,5 @@
+Various fixes and improvements for SMB CA
+
 This patches series is in increasing order of importance.
 SMB Continuous Availability is broken when the server replies
 with errors or unexpected packets during the reconnect phase.
